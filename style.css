@@ -1,0 +1,45 @@
+body{
+    background-size: cover;
+}
+
+/* .carousel,.carousel-inner{
+    height: 28em;
+    background-position: center;
+   background-size: cover;
+    margin-top: 0%;
+    float: initial;
+    padding-bottom: 20em; 
+ 
+}  */
+header{
+    background: "im/logo.png";
+}
+.carousel,.carousel-inner{
+    width:100%;
+    height:360px;
+    border-bottom: 80em;
+    padding-bottom :-20em;
+    background-position: top
+  }
+
+.nav-item .nav-link{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+.card a{
+margin-top: 10%;
+margin-left: 13em;
+
+}
+.card {
+    opacity: .6;
+    color: whitesmoke;
+    background-color: white;
+  }
+.card:hover {
+    opacity: 1;
+  }
+
+
+  
+ 
